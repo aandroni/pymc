@@ -1,3 +1,5 @@
+:orphan:
+
 .. title:: PyMC Documentation
 
 .. raw:: html
