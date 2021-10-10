@@ -26,7 +26,7 @@ dependencies:
 - recommonmark>=0.4
 - scipy>1.4.1
 - sphinx-autobuild>=0.7
-- sphinx-panels
+- sphinx-design
 - sphinx>=1.5
 - typing-extensions>=3.7.4
 - watermark
