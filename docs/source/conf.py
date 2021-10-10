@@ -47,7 +47,6 @@ extensions = [
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.napoleon",
     "myst_nb",
-    "sphinx_panels",
     "sphinx_design",
     "sphinx_copybutton",
 ]
