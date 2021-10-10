@@ -1,4 +1,4 @@
-
+# Community
 
 :::{list-table}
 :header-rows: 0
@@ -19,7 +19,7 @@
     Many areas have an local Bayesian, PyData, or Stan meetup.
 :::
 
-## ...with a video!
+## Videos
 
 :::{list-table}
 :header-rows: 0
@@ -35,7 +35,7 @@
     A two days advance workshop in May 2018 @CEAi in the Czech Republic.
 :::
 
-## ...with a book!
+## Books
 
 ::::{panels}
 :column: col-lg-4 col-md-4
