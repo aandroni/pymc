@@ -1,13 +1,6 @@
 (learning)=
 # Learning
 
-I propose the following pattern to be followed in general.
-Each navbar section (which are the pages listed in the index toctree)
-should have an overview of the contents of the section and a hidden
-toctree to the pages within that section (if any). This will make the
-pages appear in the left sidebar for easy navigation while keeping the
-in page toc on the right sidebar.
-
 ## Getting started
 
 Start here to get acquainted with the core concepts of Bayesian analysis and PyMC.

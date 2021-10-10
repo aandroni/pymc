@@ -5,6 +5,6 @@ Gaussian Processes API
 
 .. toctree::
 
-   gp/implementations
-   gp/mean
-   gp/cov
+   gaussian_process/implementations
+   gaussian_process/mean
+   gaussian_process/cov

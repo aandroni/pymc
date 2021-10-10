@@ -20,5 +20,5 @@ Covariance Functions
    Kron
    Coregion
 
-.. automodule:: pymc.gp.cov
+.. automodule:: pymc3.gp.cov
    :members:

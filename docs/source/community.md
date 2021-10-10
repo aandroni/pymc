@@ -1,6 +1,4 @@
-# Learn Bayesian statistics
 
-## ...with others!
 
 :::{list-table}
 :header-rows: 0

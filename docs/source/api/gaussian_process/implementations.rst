@@ -11,5 +11,5 @@ Implementations
    MarginalSparse
    TP
 
-.. automodule:: pymc.gp.gp
+.. automodule:: pymc3.gp.gp
    :members:
