@@ -184,6 +184,7 @@ html_theme_options = {
     "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
     "use_edit_page_button": False,  # TODO: see how to skip of fix for generated pages
+    "externalrefs": True,
     "google_analytics_id": "UA-176578023-1",
 }
 html_context = {

@@ -1,10 +1,8 @@
 :::{card} 
-:img-background: pymc/docs/pymc_logo.jpeg
+:img-background: https://github.com/pymc-devs/pymc/blob/main/docs/pymc_logo.jpg
 :margin: 0 2 auto auto
 :width: 50%
----
-scale: 80
----
+:scale: 80
 :::
 
 Probabilistic programming in Python
@@ -16,6 +14,8 @@ Probabilistic programming in Python
 Get started!
 :::
 
+::::{grid} 1
+
 :::{dropdown} Announcements: library name change and launching PyMC 4.0!
 :color: warning
 :icon: rocket
@@ -26,6 +26,7 @@ We have two major announcements that we're excited to share. First of all, a new
 
 This ties into our second announcement, which is that we are hereby launching the newest version of PyMC: PyMC 4.0! Read more about this new release [here]().
 :::
+::::
 
 # Main Features & Benefits
 
