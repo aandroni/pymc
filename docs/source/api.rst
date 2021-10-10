@@ -1,17 +1,12 @@
-:orphan:
-
-..
-    _"api" is referenced in html_theme_options docs/source/conf.py
-
 .. _api:
 
 *************
 API Reference
 *************
 
-.. toctree
+.. toctree::
    :maxdepth: 2
-   
+
    api/backends
    api/distributions
    api/gaussian_process

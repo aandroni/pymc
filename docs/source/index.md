@@ -1,8 +1,7 @@
 :::{card}
-:img-background: https://github.com/pymc-devs/pymc/blob/main/docs/pymc_logo.jpg
+:img-background: https://raw.githubusercontent.com/pymc-devs/pymc/main/docs/logos/PyMC.jpg
 :margin: 0 2 auto auto
 :width: 50%
-:scale: 80
 :::
 
 Probabilistic programming in Python
