@@ -49,16 +49,11 @@ PyMC is a non-profit project under NumFOCUS umbrella. If you value PyMC and want
 Donate
 :::
 
-::::{grid} 1 3 3 3
-:::{grid-item-card}
-TODO add sponsor logo
-:::
-:::{grid-item-card}
-TODO add sponsor logo
-:::
-:::{grid-item-card}
-TODO add sponsor logo
-:::
+:::{card}
+:img-background: https://www.numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png
+:link: https://numfocus.org/
+:width: 25%
+
 ::::
 
 # Citing PyMC
