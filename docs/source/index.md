@@ -38,7 +38,7 @@ Fit your model using gradient-based MCMC algorithms like NUTS, using ADVI for fa
 :::
 ::::
 
-# Support and Sponsors
+# Support
 
 PyMC is a non-profit project under NumFOCUS umbrella. If you value PyMC and want to support its development, consider donating to the project.
 
@@ -49,10 +49,25 @@ PyMC is a non-profit project under NumFOCUS umbrella. If you value PyMC and want
 Donate
 :::
 
-:::{card}
+## Our sponsors
+
+::::{grid} 2 4 4 4
+
+:::{grid-item}
+:::
+
+:::{grid-item-card}
 :img-background: https://www.numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png
 :link: https://numfocus.org/
-:width: 25%
+:::
+
+:::{grid-item-card}
+:img-background: https://github.com/pymc-devs/pymc/raw/main/docs/pymc-labs-logo.png
+:link: https://www.pymc-labs.io/
+:::
+
+:::{grid-item}
+:::
 
 ::::
 
@@ -63,27 +78,6 @@ Use this to cite the library:
 Salvatier J., Wiecki T.V., Fonnesbeck C. (2016) Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2:e55 [DOI: 10.7717/peerj-cs.55.](https://doi.org/10.7717/peerj-cs.55)
 
 See [Google Scholar](https://scholar.google.de/scholar?oi=bibs&hl=en&authuser=1&cites=6936955228135731011) for a continuously updated list of papers citing PyMC3.
-
-::::{grid} 2
-:gutter: 3 3 4 5
-
-:::{grid-item-card} Need help?
-[Ask a question!]()
-
-[Read the User Docs]()
-
-[Read the Developer Docs]()
-
-:::
-:::{grid-item-card} Around the web
-[Github]()
-
-[Twitter]()
-
-[Discourse]()
-:::
-::::
-
 
 :::{toctree}
 :maxdepth: 1
