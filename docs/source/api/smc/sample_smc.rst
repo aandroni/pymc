@@ -1,5 +1,9 @@
+***********************************
+Sample Sequential Monte Carlo (SMC)
+***********************************
+
 .. currentmodule:: pymc.smc.sample_smc
 .. autosummary::
+   sample_smc
 
-.. automodule:: pymc.smc.sample_smc
-   :members:
+.. autofunction:: pymc.smc.sample_smc

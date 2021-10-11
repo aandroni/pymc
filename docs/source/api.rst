@@ -7,15 +7,15 @@ API Reference
 .. toctree::
    :maxdepth: 2
 
-   api/backends
    api/distributions
-   api/gaussian_process
+   api/gp
    api/model
-   api/ordinary_differential_equations
+   api/ode
    api/samplers
-   api/sequential_monte_carlo
+   api/smc
    api/step_methods
-   api/variational_inference
+   api/inference
+   api/plots
 
 Indices and tables
 ===================
